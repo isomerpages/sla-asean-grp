@@ -4,16 +4,16 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Join us at Geo Connect Asia on 6 - 7 March 2024!
+notification: Join us at Geo Connect Asia on 6 - 7 March 2024 at Marina Bay Sands!
 sections:
   - hero:
       title: ASEAN Geospatial
-      subtitle: "One-stop Resource Portal for ASEAN Geospatial Information "
+      subtitle: One-stop Resource Portal for ASEAN Geospatial Information
       background: /images/ASEAN_Geospatial_Background.PNG
       button: Contact Us
       url: mailto:geoworks@sla.gov.sg
       key_highlights:
-        - title: "Agency Listings "
+        - title: Agency Listings
           description: Explore Geospatial Agencies
           url: https://google.com
         - title: Education
