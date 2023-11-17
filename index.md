@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Agency Listings
           description: Explore Geospatial Agencies
-          url: https://google.com
+          url: /agency-brunei/
         - title: Education
           description: Find Educational Opportunities
           url: https://gmail.com
