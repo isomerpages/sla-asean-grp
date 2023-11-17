@@ -25,14 +25,6 @@ sections:
         - title: Professionals Network
           description: Connect with Professionals
           url: https://www.linkedin.com/groups/10334514/
-  - infobar:
-      title: Geo Connect Asia 2024
-      subtitle: Upcoming Event
-      description: The Geo Connect Asia Conference is a regional meeting place for the
-        fast expanding geospatial, positioning, digital construction and remote
-        sensing markets.
-      button: Find out more
-      url: https://www.geoconnectasia.com/
   - infopic:
       title: Geo Connect Asia 2024
       subtitle: Upcoming Events
@@ -42,5 +34,6 @@ sections:
         sensing markets.
       button: Find Out More
       url: https://www.geoconnectasia.com/
+      image: /images/Geo_Connect_Asia_2024_banner.PNG
       alt: Image alt text
 ---
