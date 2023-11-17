@@ -33,4 +33,14 @@ sections:
         sensing markets.
       button: Find out more
       url: https://www.geoconnectasia.com/
+  - infopic:
+      title: Geo Connect Asia 2024
+      subtitle: Upcoming Events
+      id: infopic
+      description: The Geo Connect Asia Conference is a regional meeting place for the
+        fast expanding geospatial, positioning, digital construction and remote
+        sensing markets.
+      button: Find Out More
+      url: https://www.geoconnectasia.com/
+      alt: Image alt text
 ---
