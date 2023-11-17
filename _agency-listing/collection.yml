@@ -2,4 +2,4 @@ collections:
   agency-listing:
     output: true
     order:
-      - example-page.md
+      - Brunei.md
