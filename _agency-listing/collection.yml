@@ -1,4 +1,5 @@
 collections:
   agency-listing:
     output: true
-    order: []
+    order:
+      - example-page.md
