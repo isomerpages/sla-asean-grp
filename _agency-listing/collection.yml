@@ -2,6 +2,7 @@ collections:
   agency-listing:
     output: true
     order:
+      - Laos.md
       - Brunei.md
       - Cambodia.md
       - Indonesia.md
