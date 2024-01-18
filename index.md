@@ -18,7 +18,7 @@ sections:
           url: /agency-brunei/
         - title: Education
           description: Find Educational Opportunities
-          url: https://gmail.com
+          url: /education-brunei/
         - title: Careers
           description: Discover Career Paths
           url: /privacy/
