@@ -2,6 +2,7 @@ collections:
   agency-listing:
     output: true
     order:
+      - The Philippines.md
       - Myanmar.md
       - Malaysia.md
       - Lao DPR.md
