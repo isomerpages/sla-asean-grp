@@ -2,6 +2,7 @@ collections:
   agency-listing:
     output: true
     order:
+      - Vietnam.md
       - Thailand.md
       - Singapore.md
       - The Philippines.md
