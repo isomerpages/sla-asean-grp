@@ -2,7 +2,7 @@ collections:
   agency-listing:
     output: true
     order:
-      - Laos DPR.md
+      - Lao DPR.md
       - Brunei.md
       - Cambodia.md
       - Indonesia.md
