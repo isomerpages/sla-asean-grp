@@ -1,8 +1,7 @@
 ---
 title: Brunei
 permalink: /agency-brunei/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-![Brunei Flag](/images/Brunei_Flag.png)
-The [Ministry of Development, Survey Department](https://geoportal.survey.gov.bn/start)![Brunei Flag] has done its role in response to our country needs in related to matters of land surveying, preparation and production of maps and consistency and updating of Land Information Technology toward country development and projects under the Country Development Plan.
+<div class="isomer-image-wrapper"><img style="width: 30%;" height="auto" width="100%" alt="Brunei Flag" src="/images/Brunei_Flag.png"></div><p>The <a href="https://geoportal.survey.gov.bn/start" rel="noopener noreferrer nofollow" target="_blank">Ministry of Development, Survey Department</a> in Brunei Darussalam plays a crucial role in the country's development and land management. Its mission is to efficiently and accurately collect, analyse, and disseminate spatial information to support sustainable development and effective governance.</p><p>Some of its key functions include land surveying, preparation and production of maps as well as ensuring consistency and updating of Land Infromation Technology.&nbsp;</p>
