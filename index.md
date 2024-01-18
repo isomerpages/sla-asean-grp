@@ -9,7 +9,7 @@ sections:
   - hero:
       title: ASEAN Geospatial
       subtitle: One-stop Resource Portal for ASEAN Geospatial Information
-      background: /images/ASEAN_Geospatial_Background.PNG
+      background: /images/AGA2023_1.jpg
       button: Contact Us
       url: mailto:geoworks@sla.gov.sg
       key_highlights:
