@@ -2,6 +2,6 @@ collections:
   agency-listing:
     output: true
     order:
+      - Brunei.md
       - Cambodia.md
       - Indonesia.md
-      - Brunei.md
