@@ -2,31 +2,28 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Singapore Land Authority
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 55 Newton Road
+      - Level 12 Revenue House
+      - Singapore 307987
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://www.onemap.gov.sg/minimap/minimap.html?mapStyle=Default&zoomLevel=15&latLng=1.31951800264427,103.842154838338&ewt=JTNDcCUzRSUzQ3N0cm9uZyUzRVNpbmdhcG9yZSUyMExhbmQlMjBBdXRob3JpdHklM0MlMkZzdHJvbmclM0UlM0MlMkZwJTNFJTBBJTNDcCUzRTU1JTIwTmV3dG9uJTIwUm9hZCUzQyUyRnAlM0UlMEElM0NwJTNFTGV2ZWwlMjAxMiUyMFJldmVudWUlMjBIb3VzZSUzQyUyRnAlM0UlMEElM0NwJTNFU2luZ2Fwb3JlJTIwMzA3OTg3JTNDJTJGcCUzRQ==&popupWidth=200
+    title: Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6123 4567
+      - email: enquiries@abc.gov.sg
+      - other: Any text here <i>including HTML</i>
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: careers@abc.gov.sg
+      - other: ""
+    title: Careers
+feedback: ""
 ---
