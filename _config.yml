@@ -1,4 +1,4 @@
-title: Title
+title: ASEAN Geospatial Resource Portal
 url: https://aseangeospatial.org
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: An ASEAN focused portal to find geospatial related government
+  agencies, education and job opportunities in the region.
 permalink: none
 baseurl: ""
 exclude:
