@@ -2,6 +2,7 @@ collections:
   education:
     output: true
     order:
+      - Myanmar.md
       - Malaysia.md
       - Lao DPR.md
       - Indonesia.md
