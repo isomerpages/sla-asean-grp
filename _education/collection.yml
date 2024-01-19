@@ -2,5 +2,6 @@ collections:
   education:
     output: true
     order:
+      - Lao DPR.md
       - Indonesia.md
       - Brunei.md
