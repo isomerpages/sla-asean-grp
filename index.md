@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: ASEAN Geospatial Resource Portal
+description: An ASEAN focused portal to find geospatial related government
+  agencies, education and job opportunities in the region.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Join us at Geo Connect Asia on 6 - 7 March 2024 at Marina Bay Sands!
