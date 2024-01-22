@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Malaysia.md
       - Myanmar.md
       - Singapore.md
       - The Philippines.md
