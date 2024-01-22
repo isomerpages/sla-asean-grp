@@ -25,7 +25,7 @@ sections:
           url: /privacy/
         - title: Professionals Network
           description: Connect with Professionals
-          url: https://www.linkedin.com/groups/10334514/
+          url: https://www.linkedin.com/company/geoworks-sla
   - infopic:
       title: Geo Connect Asia 2024
       subtitle: Upcoming Events
