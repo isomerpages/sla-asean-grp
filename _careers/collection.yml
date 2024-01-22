@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Indonesia.md
       - Lao DPR.md
       - Malaysia.md
       - Myanmar.md
