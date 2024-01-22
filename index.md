@@ -22,7 +22,7 @@ sections:
           url: /education-brunei/
         - title: Careers
           description: Discover Career Paths
-          url: /privacy/
+          url: /careers-brunei/
         - title: Professionals Network
           description: Connect with Professionals
           url: https://www.linkedin.com/company/geoworks-sla
