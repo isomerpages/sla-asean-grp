@@ -2,8 +2,8 @@ collections:
   education:
     output: true
     order:
-      - Cambodia.md
       - Brunei.md
+      - Cambodia.md
       - Indonesia.md
       - Lao DPR.md
       - Malaysia.md
