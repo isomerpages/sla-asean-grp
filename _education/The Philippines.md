@@ -1,0 +1,7 @@
+---
+title: The Philippines
+permalink: /education-philippines/
+variant: tiptap
+description: ""
+---
+<h1>University of the Philippines Diliman</h1><h4>M.S. Geomatics Engineering - specialising in Remote Sensing and Photogrammetry</h4><h4>M.S. Geomatics Engineering - specialising in Applied Geodesy</h4><h4>M.S. Geomatics Engineering - specialising in Geoinformatics</h4><p>Upon completion of the degree, graduates will be equipped with skills in doing research and development in the field of remote sensing/applied geodesy/geoinformatics, which includes understanding of the underlying principles in acquiring, processing, transmitting, storing, representing, and using remotely sense data; Competence in designing of remote sensing techniques in order to provide an efficient method for obtaining primary spatial data; Capability in designing and carrying out research and development projects in various aspects of remote sensing as well as confidence in communicating and transferring knowledge on remote sensing to others.</p><p><a href="https://coe.upd.edu.ph/academics-overview/graduate-degree-programs/geodetic-engineering/" rel="noopener noreferrer nofollow" target="_blank">Find out more</a></p><p></p>

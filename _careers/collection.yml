@@ -1,0 +1,14 @@
+collections:
+  careers:
+    output: true
+    order:
+      - Brunei.md
+      - Cambodia.md
+      - Indonesia.md
+      - Lao DPR.md
+      - Malaysia.md
+      - Myanmar.md
+      - Singapore.md
+      - The Philippines.md
+      - Thailand.md
+      - Vietnam.md
