@@ -4,8 +4,8 @@ permalink: /education-laodpr/
 variant: tiptap
 description: ""
 ---
-<p>The National University of Laos</p>
-<p>Bachelor in Geography and GIS(BSc)</p>
+<h2>The National University of Laos</h2>
+<h4>Bachelor in Geography and GIS(BSc)</h4>
 <p>The Geography and Religious Section is one of the classes that is integrated
 into the university's current university social sciences. It is an Academic
 Institute of GIS, RS, GPS and Archives, which has been open to students
