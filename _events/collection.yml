@@ -1,5 +1,5 @@
 collections:
-  careers:
+  events:
     output: true
     order:
       - Brunei.md
