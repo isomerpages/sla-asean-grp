@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Lao DPR.md
-      - Brunei.md
       - Indonesia.md
       - Malaysia.md
       - Singapore.md
