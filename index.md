@@ -19,7 +19,7 @@ sections:
           url: /agency-brunei/
         - title: Education
           description: Find Educational Opportunities
-          url: /education-brunei/
+          url: /education-indonesia/
         - title: Events
           description: Discover Industry Activities
           url: /events-brunei/
