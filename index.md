@@ -20,9 +20,9 @@ sections:
         - title: Education
           description: Find Educational Opportunities
           url: /education-brunei/
-        - title: Careers
-          description: Discover Career Paths
-          url: /careers-brunei/
+        - title: Events
+          description: Discover Industry Activities
+          url: /events-brunei/
         - title: Professionals Network
           description: Connect with Professionals
           url: https://www.linkedin.com/company/geoworks-sla
