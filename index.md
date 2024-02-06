@@ -21,7 +21,7 @@ sections:
           description: Find Educational Opportunities
           url: /education-indonesia/
         - title: Events
-          description: Discover Industry Activities
+          description: Attend Industry Activities
           url: /events-brunei/
         - title: Professionals Network
           description: Connect with Professionals
