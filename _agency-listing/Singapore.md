@@ -9,15 +9,15 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="Singapore Flag" src="/images/Singapore_Flag.png">
 </div>
 <p>The <a href="https://www.sla.gov.sg/geospatial-development-and-services" rel="noopener noreferrer nofollow" target="_blank">Singapore Land Authority</a> (SLA)
-is the national geosptial agency of Singapore, with the objective to support
+is the national geospatial agency of Singapore, with the objective to support
 and encourage the adoption of Geospatial data, services and technologies
 as part of the government’s move towards a Smart Nation.</p>
-<p>The objectives of the Singapore Geospatial Masterplan includes establishing
-a trusted public service to empower effective geospatial policy-making,
-planning and operations to support the business community and the citizens
-of Singapore; creating a thriving geo-powered business environment that
-broadens and deepens the use of geospatial technology and data to improve
-productivity and encourage innovation; and developing an able workforce
-skilled in understanding, using and implementing geospatial data for the
-betterment of their everyday lives.</p>
+<p>A key initiative underpinning this objective is the Singapore Geospatial
+Master Plan, which drives Singapore’s national geospatial development,
+maximising the impact of geospatial information and technology for the
+economy and the wider society.</p>
+<p>The latest iteration, published in 2024, is co-driven by the SLA and the
+Maritime and Port Authority of Singapore (MPA). It is a collaborative and
+visionary undertaking, bringing together both the land and sea towards
+transforming Singapore into ‘A Leading Global Geospatial Hub’.</p>
 <p></p>
