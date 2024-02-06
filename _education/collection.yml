@@ -2,8 +2,8 @@ collections:
   education:
     output: true
     order:
-      - Lao DPR.md
       - Indonesia.md
+      - Lao DPR.md
       - Malaysia.md
       - Singapore.md
       - Thailand.md
