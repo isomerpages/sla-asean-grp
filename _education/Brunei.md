@@ -4,4 +4,11 @@ permalink: /events-brunei/
 variant: tiptap
 description: ""
 ---
-<h2>Universiti Brunei Darussalam - Faculty of Arts &amp; Social Sciences</h2><h4>Geography, Environment and Development</h4><p>The Geography, Environment and Development (GED) programme focuses on development and its connection to the natural environment. It examines processes and interactions in either or both spheres within the discipline of Geography, which is concerned mainly with the patterns and landscapes created.</p><p><a href="https://fass.ubd.edu.bn/majors/geog-env-dev.html" rel="noopener noreferrer nofollow" target="_blank">Find out more</a></p>
+<h2>GIS Day</h2>
+<p>Brunei's Ministry of Development's Survey Department celebrates GIS Day
+annually, typically falling on the Wednesday of the third week of November.
+It serves as an opportunity to raise awareness about Geographic Information
+Systems (GIS) and showcase the department’s work through various activities
+and events.</p>
+<p><a href="http://www.mod.gov.bn/survey/SitePages/GIS%20Day.aspx" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
+</p>
