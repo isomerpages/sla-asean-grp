@@ -4,4 +4,12 @@ permalink: /agency-cambodia/
 variant: tiptap
 description: ""
 ---
-<p></p><div class="isomer-image-wrapper"><img style="width: 30%;" height="auto" width="100%" alt="Cambodia Flag" src="/images/Cambodia_Flag.PNG"></div><p>The <a href="https://ncdd.gov.kh/" rel="noopener noreferrer nofollow" target="_blank">National Committee for Sub-national Democratic Development</a> (NCDD) is accountable to the Royal Government of Cambodia for the implementation of the Law on Administrative Management of the Capital, Provinces, Municipalities, Districts and Khans, the Law on Administrative Management of Communes/Sangkats and Decentralization and Deconcentration policy. </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Cambodia Flag" src="/images/Cambodia_Flag.PNG">
+</div>
+<p>The <a href="www.nis.gov.kh/index.php/en" rel="noopener noreferrer nofollow" target="_blank">National Institute of Statistics</a> (NIS),
+which is part of the Ministry of Planning, is the focal point on statistical
+matters in Cambodia. The NIS compiles and consolidates statistics provided
+by decentralized offices and also collects primary data through household
+and establishment surveys and population, agricultural and economic censuses.</p>
