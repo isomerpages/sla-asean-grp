@@ -2,19 +2,19 @@ title: ASEAN Geospatial Resource Portal
 url: https://aseangeospatial.org
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#06aedc"
-  secondary-color: "#4372d6"
+  primary-color: "#b23954"
+  secondary-color: "#b28293"
   media-colors:
     - title: media-color-one
-      color: "#4a90e2"
+      color: "#e59eb4"
     - title: media-color-two
       color: "#9b9b9b"
     - title: media-color-three
       color: "#ffffff"
     - title: media-color-four
-      color: "#00838f"
+      color: "#b23954"
     - title: media-color-five
-      color: "#00838f"
+      color: "#b28293"
 description: An ASEAN focused portal to find geospatial related government
   agencies, education and job opportunities in the region.
 permalink: none
