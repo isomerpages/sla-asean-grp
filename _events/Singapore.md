@@ -4,15 +4,14 @@ permalink: /events-singapore/
 variant: tiptap
 description: ""
 ---
-<h2>Geo Connect Asia</h2>
-<p>The Geo Connect Asia 2024 Show and Conference is the largest show for
-the region’s fast expanding geospatial, positioning, location intelligence
-and remote sensing markets, comprising more than 100 leading companies.
-The co-location with Digital Construction Asia adds particular focus on
-the development of one of the region’s largest industries.</p>
-<p>With the growing application of geospatial based knowhow in decision-making
-across government, enterprise and non-profit the annual event comprises
-a show with a mix of thought leadership and technical platforms.</p>
-<p><a href="https://www.geoconnectasia.com" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
-</p>
+<h2>Singapore Geospatial Festival</h2>
+<p>Co-Organised by Singapore Land Authority (SLA) and Maritime and Port Authority
+of Singapore (MPA), Singapore Geospatial Festival (SG GeoFest) is returning
+this year from <strong>15 - 17 October 2024 </strong>with the theme “<strong><em>Geospatial for Good: Enriching Minds, Empowering Lives</em></strong>”.
+The event will bring together the international geospatial community (public
+and private sectors as well as the community-at-large) for talks, panel
+discussions, workshops and co-located activities promoting the innovative
+use of geospatial information and technology.</p>
+<p>Keep a lookout on this page for the programme and registration details!</p>
+<p></p>
 <p></p>
