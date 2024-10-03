@@ -5,18 +5,18 @@ variant: tiptap
 description: ""
 ---
 <h2>National Conference on GIS Application</h2>
-<p>The National Conference on GIS Application was held at the Vietnam National
-University of Agriculture, with the theme “GIS Application: Digital transformation
-in natural resource and environmental management”.</p>
-<p>The major objective is to create a symposium for scientists, managers,
-and stakeholders to exchange research achievements and applications of
-GIS and remote sensing technology in a variety of related domains such
-as managing environment and natural resources, monitoring and reducing
-damage caused by natural disasters in order to propose research and development
-orientations for GIS and remote sensing technology in the future. In addition,
-the annual conference also provides an occasion to develop networks as
-well as expand research and education cooperation with domestic and foreign
+<p>Can Tho University will host the 2024 edition of the conference with the
+theme "Technology Solutions for Sustainable Resource Management and Development."The
+primary objective of this year's conference is to create a platform for
+scientists, managers, and stakeholders to exchange research achievements
+and experience in the application of GIS and remote sensing technology.
+These applications span various domains, including environmental and natural
+resource management, as well as monitoring and mitigating damage caused
+by natural disasters. The conference aims to propose future research and
+development directions for GIS and remote sensing technology. Additionally,
+this annual conference provides an opportunity to develop networks and
+expand research and educational cooperation with both national and international
 partners.</p>
-<p><a href="https://gis23.vnua.edu.vn/en/homepage" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
+<p><a href="https://gis2024.ctu.edu.vn/en/" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
 </p>
 <p></p>
