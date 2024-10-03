@@ -1,0 +1,11 @@
+collections:
+  education:
+    output: true
+    order:
+      - Indonesia.md
+      - Lao DPR.md
+      - Malaysia.md
+      - Singapore.md
+      - Thailand.md
+      - The Philippines.md
+      - Vietnam.md

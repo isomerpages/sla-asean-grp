@@ -1,0 +1,10 @@
+collections:
+  events:
+    output: true
+    order:
+      - Brunei.md
+      - Indonesia.md
+      - Malaysia.md
+      - Singapore.md
+      - Thailand.md
+      - Vietnam.md
