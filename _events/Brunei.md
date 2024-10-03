@@ -10,6 +10,6 @@ annually, typically falling on the Wednesday of the third week of November.
 It serves as an opportunity to raise awareness about Geographic Information
 Systems (GIS) and showcase the department’s work through various activities
 and events.</p>
-<p><a href="http://www.mod.gov.bn/survey/SitePages/GIS%20Day.aspx" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
+<p><a href="http://www.mod.gov.bn/survey/SitePages/GIS%20Day%202024.aspx" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
 </p>
 <p></p>
