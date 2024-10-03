@@ -17,6 +17,17 @@ careers.</p>
 <p><a href="https://fass.nus.edu.sg/geog/msc-in-applied-gis/" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
 </p>
 <p></p>
+<h4>Professional Certificate (PC) in Applied Geographic Information Systems (GIS)</h4>
+<p>Developed <a href="https://news.nus.edu.sg/more-educational-pathways-to-develop-geoscience-talent-pipeline-and-deepen-capabilities/" rel="noopener" target="_blank">in partnership with the Singapore Land Authority (SLA)</a> ,
+a key driver in adopting geospatial data, services, and technologies in
+the Singapore government’s Smart Nation initiative, this course is taught
+by distinguished faculty members from the <a href="https://news.nus.edu.sg/19-nus-programmes-placed-in-global-top-10-in-qs-world-university-rankings-by-subject-2024/" rel="noopener" target="_blank">NUS Department of Geography, ranked 6th globally and 1st in Asia in the 2024 QS World University Rankings by Subject.</a>
+</p>
+<p>The course curriculum is industry-focused, built around a geospatial technology
+framework that provides learners with essential competencies for various
+geospatial job roles.</p>
+<p><a href="https://fass.nus.edu.sg/geog/continuing-education-and-training/pc-in-applied-gis/" rel="noopener nofollow" target="_blank">Find out more</a>
+</p>
 <h2>Singapore Institute of Management</h2>
 <h4>Bachelor of Science (Geographic Information Science)</h4>
 <p>The Bachelor of Science (Geographic Information Science) degree provides
