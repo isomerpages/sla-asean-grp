@@ -4,13 +4,15 @@ permalink: /events-malaysia/
 variant: tiptap
 description: ""
 ---
-<h2>IGRSM Conference</h2>
-<p>The IGRSM Conference 2024, officially known as the "12th IGRSM International
-Conference and Exhibition on Geospatial &amp; Remote Sensing," took place
-in April at Kuala Lumpur with the objectives to disseminate knowledge and
-share expertise and experiences in the present and future applications
-and development of remote sensing, geographical information systems (GIS),
-global navigation satellite systems (GNSS) and related fields of applications.</p>
-<p><a href="https://conference.igrsm.org/igrsmc2024/" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
+<h2>10th NGIS, 2025 (NGIS10)</h2>
+<p>The 10th National Geospatial Information Symposium (NGIS10) is a prominent
+national event that brings together the geospatial community from government
+agencies, the private sector, and academia.</p>
+<p>NGIS10 aims to provide a platform for discussing current issues related
+to geospatial information while supporting the Malaysian government's mission
+towards excellence in geospatial information management across various
+sectors. Additionally, the symposium will focus on revolutionizing geospatial
+practices to address the challenges of the digital era.</p>
+<p>For more information, visit <a rel="noopener noreferrer nofollow" target="_blank">www.mygeoportal.gov.my</a>
 </p>
 <p></p>
