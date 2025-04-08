@@ -4,4 +4,19 @@ permalink: /agency-malaysia/
 variant: tiptap
 description: ""
 ---
-<p></p><div class="isomer-image-wrapper"><img style="width: 30%;" height="auto" width="100%" alt="Malaysia Flag" src="/images/Malaysia_Flag.PNG"></div><p>The <a href="https://www.mygeoportal.gov.my/en" rel="noopener noreferrer nofollow" target="_blank">Pusat Geospatial Negara</a> (PGN) has established the National Geospatial Centre (NGC) to manage and promote the development of Malaysia Geospatial Data Infrastructure (MyGDI) as the National Spatial Data Infrastructure (NSDI). PGN is responsible for coordinating access and delivery of the geospatial information held by all government agencies, private sectors and public.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Malaysia Flag" src="/images/Malaysia_Flag.PNG">
+</div>
+<p><a href="https://www.mygeoportal.gov.my/en/home" rel="noopener noreferrer nofollow" target="_blank">Pusat Geospatial Negara (PGN)</a> is
+a government agency under the Ministry of Natural Resources and Environmental
+Sustainability (NRES). It is responsible for coordinating and managing
+the development, standardization, and sharing of geospatial data across
+the country. PGN serves as the national authority for geospatial information,
+ensuring that geospatial data is effectively utilized for planning, decision-making,
+and sustainable development. MyGDI (Malaysian Geospatial Data Infrastructure)
+is a national framework developed to facilitate the sharing and use of
+geospatial data across various government agencies and stakeholders in
+Malaysia. PGN develops and maintains MyGDI, supports geospatial data sharing
+among government agencies, formulates geospatial policies and standards,
+and provides geospatial services, training, and consultation.</p>
