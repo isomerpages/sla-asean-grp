@@ -128,7 +128,7 @@ prize categories.</p>
 <p></p>
 <h3>Register Here</h3>
 <p>Please register your team and submit your project documents via this link
-(for Singapore Teams only):&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agc-26-registration-form</a>
+(for Singapore Teams only):&nbsp;<a href="https://go.gov.sg/agc-26-registration-form" rel="noopener nofollow" target="_blank">https://go.gov.sg/agc-26-registration-form</a>
 </p>
 <p>Registration and project submission ends at 12 January 2026, 23:59 SG
 (applicable only for Singapore Teams)</p>
