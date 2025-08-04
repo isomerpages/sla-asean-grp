@@ -38,4 +38,15 @@ sections:
       url: https://www.geoconnectasia.com/
       image: /images/GCA_2025_Closing_plenary.png
       alt: Image alt text
+  - infopic:
+      title: ASEAN Geospatial Challenge 2026
+      subtitle: Competition
+      id: infopic
+      description: This Challenge brings youth in the ASEAN region together to use
+        geospatial technology and information to achieve Sustainable Development
+        Goals.
+      button: Find out more
+      url: /asean-geospatial-challenge
+      image: /images/AGC_25_Group_Photo.jpg
+      alt: Image alt text
 ---
