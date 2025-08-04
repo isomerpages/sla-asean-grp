@@ -60,18 +60,8 @@ Mapping).</p>
 <p><a href="https://builtsurvey.utm.my/academic/master-of-science-geomatic-engineering/" rel="noopener nofollow" target="_blank">Find out more</a>
 </p>
 <p></p>
-<h4>Doctorate Programmes</h4>
-<p>The doctorate programmes offered by the faculty are in the field of architecture,
-quantity surveying, urban and regional planning, and transportation planning.
-The programmes are entirely conducted in research mode whereby students
-conduct original research under the supervision of experienced supervisors
-who are themselves PhD holders.</p>
-<p><a href="https://builtsurvey.utm.my/academic/doctorate-programmes/" rel="noopener noreferrer nofollow" target="_blank"><u>Find out more</u></a>
-</p>
-<p></p>
-<p></p>
 <h2>Universiti Teknologi Mara</h2>
-<p><strong>College of Built Environment Universiti Teknologi MARA</strong>
+<p><strong>School of Geomatics Science &amp; Natural Resources, Faculty of Built Environment</strong>
 </p>
 <h4>Bachelor of Surveying Science and Geomatics (Hons)</h4>
 <p>The programme is designed to produce graduates who have sound knowledge,
