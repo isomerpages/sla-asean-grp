@@ -4,6 +4,7 @@ permalink: /asean-geospatial-challenge/
 variant: tiptap
 description: ""
 ---
+<h3>ASEAN Geospatial Challenge 2026</h3>
 <p>The ASEAN Geospatial Challenge: Geospatial Youth Edition brings youth
 in the ASEAN region together to use geospatial technology and information
 to support nations in achieving their Sustainable Development Goals (SDGs).
@@ -144,3 +145,9 @@ prize categories.</p>
 <a href="/files/AGC_26_FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for more information.</p>
 <p>For any inquiries regarding the challenge, please email <a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a>
 </p>
+<p></p>
+<p>Video Montage of Past Year's Challenge:</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h7uYvPz8_58?si=7UvVKmtV6fgm9JMn"></iframe>
+</div>
+<p></p>
