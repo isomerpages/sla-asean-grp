@@ -142,4 +142,5 @@ prize categories.</p>
 <p></p>
 <p>Please refer to the AGC 26&nbsp;<a href="/files/AGC_26_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions </a>and&nbsp;
 <a href="/files/AGC_26_FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for more information.</p>
-<p></p>
+<p>For any inquiries regarding the challenge, please email <a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a> 
+</p>
