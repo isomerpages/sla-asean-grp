@@ -28,7 +28,7 @@ sections:
           description: Connect with Professionals
           url: https://www.linkedin.com/company/geoworks-sla
   - infopic:
-      title: Geo Connect Asia 2025
+      title: Geo Connect Asia 2026
       subtitle: Upcoming Events
       id: infopic
       description: The Geo Connect Asia Conference is a regional meeting place for the
@@ -36,6 +36,6 @@ sections:
         sensing markets.
       button: Find Out More
       url: https://www.geoconnectasia.com/
-      image: /images/GCA_2024_Closing_Plenary.png
+      image: /images/GCA_2025_Closing_plenary.png
       alt: Image alt text
 ---
