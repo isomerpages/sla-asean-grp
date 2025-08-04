@@ -34,9 +34,9 @@ region, the challenge aims to:</p>
 </div>
 <p></p>
 <h3>Important Notes for Participants</h3>
-<p>View&nbsp;<a href="/files/AGC_26_Important_Notes_for_Participants.pdf" rel="noopener nofollow" target="_blank">AGC 26 Important Notes</a>
-<a href="https://geoworks.sla.gov.sg/files/AGC_25_Important_Notes_for_Participants.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>for submission guidelines, rules and regulations and judging
-criteria of the challenge.</p>
+<p>View <a href="/files/AGC_26_Important_Notes_for_Participants.pdf" rel="noopener nofollow" target="_blank">AGC 26 Important Notes</a> for
+submission guidelines, rules and regulations and judging criteria of the
+challenge.</p>
 <p>Each team is to submit the following documents to their respective National
 Geospatial Agency:</p>
 <table style="minWidth: 50px">
@@ -142,5 +142,5 @@ prize categories.</p>
 <p></p>
 <p>Please refer to the AGC 26&nbsp;<a href="/files/AGC_26_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions </a>and&nbsp;
 <a href="/files/AGC_26_FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for more information.</p>
-<p>For any inquiries regarding the challenge, please email <a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a> 
+<p>For any inquiries regarding the challenge, please email <a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a>
 </p>
