@@ -141,6 +141,17 @@ prize categories.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Judging_Criteria.png">
 </div>
 <p></p>
+<h3>Judges</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC26_Judges_Photos.png">
+</div>
+<p></p>
+<h3>Sponsors</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC26_Sponsors.png">
+</div>
 <p>Please refer to the AGC 26&nbsp;<a href="/files/AGC_26_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions </a>and&nbsp;
 <a href="/files/AGC_26_FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for more information.</p>
 <p>For any inquiries regarding the challenge, please email <a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a>
@@ -148,6 +159,6 @@ prize categories.</p>
 <p></p>
 <p>Video Montage of Past Year's Challenge:</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h7uYvPz8_58?si=7UvVKmtV6fgm9JMn"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h7uYvPz8_58?si=7UvVKmtV6fgm9JMn"></iframe>
 </div>
 <p></p>
