@@ -157,7 +157,7 @@ prize categories.</p>
 <p>For any inquiries regarding the challenge, please email <a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a>
 </p>
 <p></p>
-<h3>Winning Teams </h3>
+<h3>Winning Teams</h3>
 <p><strong>Distinction Award</strong>
 </p>
 <p><strong>Team</strong>: AInsightGeo</p>
@@ -169,6 +169,7 @@ Photovoltaic Potential Assessment and Property Tax Valuation ​</p>
 <p><strong>School</strong>: University of Santo Tomas​</p>
 <p><strong>Project Title</strong>: P.A.T.H.: Plastic Assessment Tracking
 &amp; Hotspots ​</p>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>Excellence Award</strong>
@@ -214,6 +215,6 @@ Facilities ​</p>
 <p><strong>Project Title</strong>: RouteScape ​</p>
 <p>Video Montage of Past Year's Challenge:</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h7uYvPz8_58?si=7UvVKmtV6fgm9JMn"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XmmJrl1uyoY?si=yvssIFXvDymLsriO"></iframe>
 </div>
 <p></p>
