@@ -4,7 +4,7 @@ permalink: /asean-geospatial-challenge/
 variant: tiptap
 description: ""
 ---
-<h3>ASEAN Geospatial Challenge 2026</h3>
+<h3>ASEAN Geospatial Challenge 2027</h3>
 <p>The ASEAN Geospatial Challenge: Geospatial Youth Edition brings youth
 in the ASEAN region together to use geospatial technology and information
 to support nations in achieving their Sustainable Development Goals (SDGs).
@@ -25,17 +25,17 @@ region, the challenge aims to:</p>
 <h3>Format of Challenge</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_26_Format.png">
+<img style="width: 100%" height="auto" width="100%" alt="AGC 27 format" src="/images/AGC_27_Format.png">
 </div>
 <p></p>
 <h3>Key Dates</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_26_Timeline__Updated_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AGC 27 timeline" src="/images/AGC_27_Timeline.png">
+</div>
 <h3>Important Notes for Participants</h3>
-<p>View <a href="/files/AGC_26_Important_Notes_for_Participants.pdf" rel="noopener nofollow" target="_blank">AGC 26 Important Notes</a> for
+<p>View <a href="/files/AGC_27_Important_Notes_for_Participants.pdf" rel="noopener nofollow" target="_blank">AGC 27 Important Notes</a> for
 submission guidelines, rules and regulations and judging criteria of the
 challenge.</p>
 <p>Each team is to submit the following documents to their respective National
@@ -74,7 +74,7 @@ Geospatial Agency:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/AGC_26_Team_Composition.pdf" rel="noopener noreferrer nofollow" target="_blank">Team Composition</a>
+<p><a href="/files/AGC_27_Team_Composition.pdf" rel="noopener nofollow" target="_blank">Team Composition</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,7 +83,7 @@ Geospatial Agency:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/AGC_26_Declaration_of_Original_Work.pdf" rel="noopener nofollow" target="_blank">Declaration Form on Originality of Work</a>
+<p><a href="/files/AGC_27_Declaration_of_Original_Work.pdf" rel="noopener nofollow" target="_blank">Declaration Form on Originality of Work</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +92,7 @@ Geospatial Agency:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/AGC_26_Declaration_of_Student_Identity.pdf" rel="noopener nofollow" target="_blank">Declaration Forms on Student Identity</a>
+<p><a href="/files/AGC_27_Declaration_of_Student_Identity.pdf" rel="noopener nofollow" target="_blank">Declaration Form on Student Identity</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,8 +131,8 @@ prize categories.</p>
 <p>Please register your team and submit your project documents via this link
 (for Singapore Teams only):&nbsp;<a href="https://go.gov.sg/agc-26-registration-form" rel="noopener nofollow" target="_blank">https://go.gov.sg/agc-26-registration-form</a>
 </p>
-<p>Registration and project submission ends at 12 January 2026, 23:59 SG
-(applicable only for Singapore Teams)</p>
+<p>Registration and project submission ends at 8 January 2027, 23:59 SG (applicable
+only for Singapore Teams)</p>
 <p></p>
 <h3>Judging Criteria</h3>
 <p>Projects will be assessed based on the following criteria:</p>
@@ -140,24 +140,13 @@ prize categories.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Judging_Criteria.png">
 </div>
-<p></p>
-<h3>Judges</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC26_Judges_Photos.png">
-</div>
-<p></p>
-<h3>Sponsors</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC26_Sponsors.png">
-</div>
-<p>Please refer to the AGC 26&nbsp;<a href="/files/AGC_26_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions </a>and&nbsp;
-<a href="/files/AGC_26_FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for more information.</p>
+<p>Please refer to the AGC 27&nbsp;<a href="/files/AGC_27_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions</a>
+<a href="/files/AGC_26_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank"></a>and&nbsp; <a href="/files/AGC_27_FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for
+more information.</p>
 <p>For any inquiries regarding the challenge, please email <a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a>
 </p>
 <p></p>
-<h3>Winning Teams</h3>
+<h3>AGC 26 Winning Teams</h3>
 <p><strong>Distinction Award</strong>
 </p>
 <p><strong>Team</strong>: AInsightGeo</p>
