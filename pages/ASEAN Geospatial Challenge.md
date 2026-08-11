@@ -129,7 +129,7 @@ prize categories.</p>
 <p></p>
 <h3>Register Here</h3>
 <p>Please register your team and submit your project documents via this link
-(for Singapore Teams only):&nbsp;<a href="https://go.gov.sg/agc-26-registration-form" rel="noopener nofollow" target="_blank">https://go.gov.sg/agc-26-registration-form</a>
+(for Singapore Teams only):&nbsp;<a href="https://go.gov.sg/agc-27-registration-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agc-27-registration-form</a>
 </p>
 <p>Registration and project submission ends at 8 January 2027, 23:59 SG (applicable
 only for Singapore Teams)</p>
@@ -140,9 +140,8 @@ only for Singapore Teams)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Judging_Criteria.png">
 </div>
-<p>Please refer to the AGC 27&nbsp;<a href="/files/AGC_27_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions</a>
-<a href="/files/AGC_26_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank"></a>and&nbsp; <a href="/files/AGC_27_FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for
-more information.</p>
+<p>Please refer to the AGC 27&nbsp;<a href="/files/AGC_27_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions</a>and&nbsp;
+<a href="/files/AGC_27_FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for more information.</p>
 <p>For any inquiries regarding the challenge, please email <a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a>
 </p>
 <p></p>
