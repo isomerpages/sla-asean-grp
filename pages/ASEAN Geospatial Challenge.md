@@ -131,8 +131,8 @@ prize categories.</p>
 <p>Please register your team and submit your project documents via this link
 (for Singapore Teams only):&nbsp;<a href="https://go.gov.sg/agc-27-registration-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agc-27-registration-form</a>
 </p>
-<p>Registration and project submission ends at 8 January 2027, 23:59 SG (applicable
-only for Singapore Teams)</p>
+<p>Registration and project submission ends at 8 January 2027, 23:59 SGT
+(applicable only for Singapore Teams)</p>
 <p></p>
 <h3>Judging Criteria</h3>
 <p>Projects will be assessed based on the following criteria:</p>
