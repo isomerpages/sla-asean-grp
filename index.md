@@ -5,7 +5,7 @@ description: An ASEAN focused portal to find geospatial related government
   agencies, education and job opportunities in the region.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Join us at Geo Connect Asia on 31 March - 1 April at Marina Bay
+notification: Join us at Geo Connect Asia on 17 and 18 March 2027 at Marina Bay
   Sands Expo and Convention Centre!
 sections:
   - hero:
@@ -28,7 +28,7 @@ sections:
           description: Connect with Professionals
           url: https://www.linkedin.com/company/geoworks-sla
   - infopic:
-      title: Geo Connect Asia 2026
+      title: Geo Connect Asia 2027
       subtitle: Upcoming Events
       id: infopic
       description: The Geo Connect Asia Conference is a regional meeting place for the
@@ -39,7 +39,7 @@ sections:
       image: /images/GCA_2025_Closing_plenary.png
       alt: Image alt text
   - infopic:
-      title: ASEAN Geospatial Challenge 2026
+      title: ASEAN Geospatial Challenge 2027
       subtitle: Competition
       id: infopic
       description: This Challenge brings youth in the ASEAN region together to use
