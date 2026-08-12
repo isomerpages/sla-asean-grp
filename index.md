@@ -5,7 +5,7 @@ description: An ASEAN focused portal to find geospatial related government
   agencies, education and job opportunities in the region.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Join us at Geo Connect Asia on 31 March - 1 April at Marina Bay
+notification: Join us at Geo Connect Asia on 17 and 18 March 2027 at Marina Bay
   Sands Expo and Convention Centre!
 sections:
   - hero:
