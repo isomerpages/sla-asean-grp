@@ -1,0 +1,13 @@
+collections:
+  agency-listing:
+    output: true
+    order:
+      - Brunei.md
+      - Indonesia.md
+      - Lao DPR.md
+      - Malaysia.md
+      - Myanmar.md
+      - Singapore.md
+      - Thailand.md
+      - The Philippines.md
+      - Vietnam.md
